@@ -18,6 +18,7 @@ In order to run the task, simply run the cells up until the end of the Neural Ne
 The working out/testing of all the classes was conducted on a seperate dataset in the (Class Testing Area) at the bottom of the .ipynb file (after the end of the Neural Network (fully Sigmoid) section). This is not an important part of the code to view.
 
 File name: T3Aaron_Mir_INM702_Task_3
+
 This file contains the same neural networks as in Task 2 for the classification of the MNIST dataset but instead using PyTorch. The evaluation metrics for the neural networks designed in Task 2 were compared with the evaluation metrics for the neural networks designed in this task. In addition, a convolutional neural network was designed in PyTorch to demonstrate the effectiveness of convolutional layers in the classification of the MNIST dataset. The CNN achieved an accuracy of 0.988.
 
 To run the task, simply run the cells and the outputs and evaluation metrics will be in the output.
